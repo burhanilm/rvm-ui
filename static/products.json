@@ -5,18 +5,28 @@
     "point": 2
   },
   {
+    "sku": 8992761139018,
+    "name": "Ades",
+    "point": 2
+  },
+  {
     "sku": 8886008101091,
     "name": "Aqua 1500ml",
     "point": 3
   },
   {
-    "sku": 8992752091301,
-    "name": "Aqua Click N Go Mini",
+    "sku": 8886008101336,
+    "name": "Aqua 330 ml",
     "point": 2
   },
   {
     "sku": 8886008101053,
     "name": "Aqua 600ml",
+    "point": 2
+  },
+  {
+    "sku": 8992752091301,
+    "name": "Aqua Click N Go Mini",
     "point": 2
   },
   {
@@ -30,18 +40,48 @@
     "point": 2
   },
   {
-    "sku": 8996001600399,
-    "name": "Le Mineral 1500ml",
+    "sku": 8992696417946,
+    "name": "Beard Brand Gold 140 ml",
+    "point": 1
+  },
+  {
+    "sku": 8997225200259,
+    "name": "Bintang 0.0% Lemon 250 ml",
+    "point": 1
+  },
+  {
+    "sku": 8999898962175,
+    "name": "Biokul Yogurt Drink 150 ml",
+    "point": 1
+  },
+  {
+    "sku": 8993268115000,
+    "name": "Cheers Air Mineral 1500 Ml",
     "point": 3
   },
   {
-    "sku": 8996001600269,
-    "name": "Le Mineral 600 Ml",
+    "sku": 8993268342024,
+    "name": "Cheers Air Mineral 600 Ml",
     "point": 2
   },
   {
-    "sku": 8996001600375,
-    "name": "Le Mineral Mini 330ml",
+    "sku": 8993200661350,
+    "name": "Cimory Yogurt Drink Mixed Fruit 240 ml",
+    "point": 1
+  },
+  {
+    "sku": 8996129800633,
+    "name": "Cleo 550ml",
+    "point": 2
+  },
+  {
+    "sku": 8996129800640,
+    "name": "Cleo Air Minum 1200 L",
+    "point": 3
+  },
+  {
+    "sku": 8996129800626,
+    "name": "Cleo Bt  330ml",
     "point": 1
   },
   {
@@ -138,6 +178,31 @@
     "sku": 8992761111588,
     "name": "Coca Cola Zero Slim 250ml",
     "point": 1
+  },
+  {
+    "sku": 8996001600665,
+    "name": "Cool Time Air Kelapa 350 ml",
+    "point": 1
+  },
+  {
+    "sku": 8992772485012,
+    "name": "Coolant 350 ml",
+    "point": 1
+  },
+  {
+    "sku": 8991102026383,
+    "name": "Crystaline 1,5l",
+    "point": 3
+  },
+  {
+    "sku": 8991102026376,
+    "name": "Crystaline 300ml",
+    "point": 1
+  },
+  {
+    "sku": 8991102026352,
+    "name": "Crystaline 600ml",
+    "point": 2
   },
   {
     "sku": 8992761111595,
@@ -250,14 +315,149 @@
     "point": 2
   },
   {
-    "sku": 8992752011057,
-    "name": "Vit Air Mineral 1500 Ml",
+    "sku": 8991002121010,
+    "name": "Good Day FMC 250 ml",
+    "point": 1
+  },
+  {
+    "sku": 8997225200051,
+    "name": "Green Sands Original: Lime & Apple 250 ml",
+    "point": 1
+  },
+  {
+    "sku": 8997218380197,
+    "name": "Ichitan Gold Brew Coffe 250 ml",
+    "point": 1
+  },
+  {
+    "sku": 8992702005945,
+    "name": "Indomilk Cokelat 190 ml",
+    "point": 1
+  },
+  {
+    "sku": 8992702006003,
+    "name": "Indomilk Melon 190 ml",
+    "point": 1
+  },
+  {
+    "sku": 8998866610377,
+    "name": "Isoplus 350 ml",
+    "point": 1
+  },
+  {
+    "sku": 8996001600399,
+    "name": "Le Mineral 1500ml",
     "point": 3
   },
   {
-    "sku": 8992752011033,
-    "name": "Vit Air Mineral 600 Ml",
+    "sku": 8996001600269,
+    "name": "Le Mineral 600 Ml",
     "point": 2
+  },
+  {
+    "sku": 8996001600375,
+    "name": "Le Mineral Mini 330ml",
+    "point": 1
+  },
+  {
+    "sku": 8994171102101,
+    "name": "Luwak White Coffe Original 220 ml",
+    "point": 1
+  },
+  {
+    "sku": 9556001260253,
+    "name": "Milo 225 ml",
+    "point": 1
+  },
+  {
+    "sku": 9556001051509,
+    "name": "Milo Kaleng 240 ml",
+    "point": 1
+  },
+  {
+    "sku": 8992761166113,
+    "name": "Minute Maid Pulpy Tropical 350ml",
+    "point": 1
+  },
+  {
+    "sku": 8992752111818,
+    "name": "Mizone Aktiv",
+    "point": 2
+  },
+  {
+    "sku": 8992752116233,
+    "name": "Mizone Apple Guava 500 Ml",
+    "point": 2
+  },
+  {
+    "sku": 8992752112211,
+    "name": "Mizone Break Free 500 ML",
+    "point": 2
+  },
+  {
+    "sku": 8992752119104,
+    "name": "Mizone Lychee Lemon 500 Ml",
+    "point": 2
+  },
+  {
+    "sku": 8992752111016,
+    "name": "Mizone Mangga Kweni 500 Ml",
+    "point": 2
+  },
+  {
+    "sku": 8992752118107,
+    "name": "Mizone Orange Lime",
+    "point": 2
+  },
+  {
+    "sku": 8992752117100,
+    "name": "Mizone Passion Frut 500 Ml",
+    "point": 2
+  },
+  {
+    "sku": 8992752121367,
+    "name": "Mizone Yuzu Lemon",
+    "point": 2
+  },
+  {
+    "sku": 8850389108314,
+    "name": "Mogu Mogu 320 ml",
+    "point": 1
+  },
+  {
+    "sku": 8994985002109,
+    "name": "Natsbee 450 ml",
+    "point": 1
+  },
+  {
+    "sku": 9556001288547,
+    "name": "Nescafe Cappucino 220 ml",
+    "point": 1
+  },
+  {
+    "sku": 8992982203307,
+    "name": "Nestle Pure Life 330 ml",
+    "point": 1
+  },
+  {
+    "sku": 8991368188184,
+    "name": "Oasis 1500 Ml",
+    "point": 3
+  },
+  {
+    "sku": 8991368188283,
+    "name": "Oasis 600 Ml",
+    "point": 2
+  },
+  {
+    "sku": 8997009510123,
+    "name": "Orange Water 500 ml",
+    "point": 2
+  },
+  {
+    "sku": 8997035600546,
+    "name": "Poccari Sweat 900 ml",
+    "point": 3
   },
   {
     "sku": 8992761136178,
@@ -350,98 +550,33 @@
     "point": 3
   },
   {
-    "sku": 8992752111818,
-    "name": "Mizone Aktiv",
-    "point": 2
-  },
-  {
-    "sku": 8992752116233,
-    "name": "Mizone Apple Guava 500 Ml",
-    "point": 2
-  },
-  {
-    "sku": 8992752119104,
-    "name": "Mizone Lychee Lemon 500 Ml",
-    "point": 2
-  },
-  {
-    "sku": 8992752111016,
-    "name": "Mizone Mangga Kweni 500 Ml",
-    "point": 2
-  },
-  {
-    "sku": 8992752118107,
-    "name": "Mizone Orange Lime",
-    "point": 2
-  },
-  {
-    "sku": 8992752117100,
-    "name": "Mizone Passion Frut 500 Ml",
-    "point": 2
-  },
-  {
-    "sku": 8992752121367,
-    "name": "Mizone Yuzu Lemon",
-    "point": 2
-  },
-  {
-    "sku": 8992761139018,
-    "name": "Ades",
-    "point": 2
-  },
-  {
-    "sku": 8992761166113,
-    "name": "Minute Maid Pulpy Tropical 350ml",
+    "sku": 8996006861986,
+    "name": "Tebs Sparkling Lemon Lime 300 ml",
     "point": 1
   },
   {
-    "sku": 8993268115000,
-    "name": "Cheers Air Mineral 1500 Ml",
-    "point": 3
-  },
-  {
-    "sku": 8993268342024,
-    "name": "Cheers Air Mineral 600 Ml",
-    "point": 2
-  },
-  {
-    "sku": 8996129800633,
-    "name": "Cleo 550ml",
-    "point": 2
-  },
-  {
-    "sku": 8996129800640,
-    "name": "Cleo Air Minum 1200 L",
-    "point": 3
-  },
-  {
-    "sku": 8996129800626,
-    "name": "Cleo Bt  330ml",
+    "sku": 8996001600146,
+    "name": "Teh Pucuk Harum 350 ml",
     "point": 1
   },
   {
-    "sku": 8991368188184,
-    "name": "Oasis 1500 Ml",
-    "point": 3
-  },
-  {
-    "sku": 8991368188283,
-    "name": "Oasis 600 Ml",
-    "point": 2
-  },
-  {
-    "sku": 8991102026352,
-    "name": "Crystaline 600ml",
-    "point": 2
-  },
-  {
-    "sku": 8991102026376,
-    "name": "Crystaline 300ml",
+    "sku": 8996001600641,
+    "name": "Tora Cafe Iced Cappucino 180 ml",
     "point": 1
   },
   {
-    "sku": 8991102026383,
-    "name": "Crystaline 1,5l",
+    "sku": 8996001600610,
+    "name": "Tora Cafe Iced Milky Latte 180ml",
+    "point": 1
+  },
+  {
+    "sku": 8992752011057,
+    "name": "Vit Air Mineral 1500 Ml",
     "point": 3
+  },
+  {
+    "sku": 8992752011033,
+    "name": "Vit Air Mineral 600 Ml",
+    "point": 2
   }
 ]
