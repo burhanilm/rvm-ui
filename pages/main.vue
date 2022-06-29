@@ -33,7 +33,7 @@
 
     export default {
         async asyncData({ params, $axios }) {
-            const dat = await $axios.$get(`/products.json`)
+            const dat = await $axios.$get(`http://localhost:4551/products.json`)
             return { dataProducts: dat }
         },
         data () {
