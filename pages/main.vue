@@ -52,6 +52,7 @@
                 return (index > -1) ? this.dataProducts[index] : 0
             },
             group () {
+                this.grouped = []
                 for (let i = 0; i < this.bottles.length; i++) {
                     const element = this.bottles[i];
                     let index = this.grouped.findIndex(x => x.sku === element.sku);
