@@ -94,12 +94,14 @@
             })
 
             this.socketInst.on('connect', () => {
-                this.socketInst.emit('process_start', response => {
-                    console.log(response);
-                    if (response.status != 1) {
-                        // alert(response.message)
-                    }
-                })
+                setTimeout(() => {
+                    this.socketInst.emit('process_start', response => {
+                        console.log(response);
+                        if (response.status != 1) {
+                            // alert(response.message)
+                        }
+                    })
+                }, 1000)
             })
         },
         beforeDestroy () {

@@ -1,9 +1,11 @@
 <template>
     <div class="base-size" ref="slider">
         <div @click="$router.replace('/choose')">
-            <img src="~/assets/vector/slide1.svg" alt="">
-            <img src="~/assets/vector/slide2.svg" alt="">
-            <img src="~/assets/vector/slide3.svg" alt="">
+            <img src="~/assets/vector/1.svg" alt="">
+            <img src="~/assets/vector/2.svg" alt="">
+            <img src="~/assets/vector/3.svg" alt="">
+            <img src="~/assets/vector/4.svg" alt="">
+            <img src="~/assets/vector/5.svg" alt="">
         </div>
     </div>
 </template>
@@ -26,7 +28,7 @@ export default {
     mounted () {
         this.int = setInterval(() => {
             this.currentSlide++
-            if (this.currentSlide > 2) this.currentSlide = 0
+            if (this.currentSlide > 4) this.currentSlide = 0
             gsap.to(this.$refs.slider, { scrollTo: 800 * this.currentSlide, duration: 1, ease: 'Power2.easeInOut' })
         }, 4000)
     },
